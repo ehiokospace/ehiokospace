@@ -3,7 +3,12 @@
 - 👩🏽‍💻 **Product Designer**  
 - 💻 **AI/ML Fellow @ Cornell Tech**  
 - 🎓 **CS @ Alabama A&M University**
-  
+
+## 📷 Socials  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your_email@gmail.com)](mailto:your_email@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
+
+---
 
 ## 🌟 Tools  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
