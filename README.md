@@ -1,9 +1,5 @@
 # Hello, I'm Ehi 👋
 
-- 👩🏽‍💻 **Product Designer**  
-- 💻 **AI/ML Fellow @ Cornell Tech**  
-- 🎓 **CS @ Alabama A&M University**
-
 ## 📷 Socials  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your_email@gmail.com)](mailto:your_email@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ehi-oko)
